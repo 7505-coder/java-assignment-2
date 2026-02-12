@@ -1,4 +1,4 @@
-# Java Assignment 2 - Calculator App
+#Calculator App
 
 This repository contains my **Java Programming Assignment 2** for the course at K.R. Mangalam University.
 
